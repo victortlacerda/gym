@@ -1,0 +1,16 @@
+{
+  "name": "GainTrack",
+  "short_name": "GainTrack",
+  "description": "Seu tracker de academia offline-first",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#070c17",
+  "theme_color": "#070c17",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "categories": ["fitness", "health"],
+  "lang": "pt-BR"
+}
